@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    font-size: 0px;
+}
+
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 0px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #002C2F;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+
+}
+.navbar a{
+    color: #B2A59F;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #023459;
+}
+/*.navbar a:hover{
+    animation-name: rainbow;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes rainbow{
+
+    0% {
+        background-color: #001F20;
+        width: 100px;
+    }
+    20% {
+        background-color: #023459;
+        width: 100px;
+    }
+    40% {
+        background-color: #002C2F;
+        width: 100px;
+    }
+    60% {
+
+        width: 100px;
+        background-color: #2F002C;
+    }
+    80% {
+        background-color: #2F2C00;
+        width: 100px;
+    }
+    100% {
+        background-color: #004B4D;
+        width: 100px;
+    }
+
+
+}*/
+.navbar li{
+    float: left;
+}
+
+.DriverList li:hover{
+
+    box-shadow: 0 4px 10px #028C6A;
+    background-color: #D1EDE1;
+    font-size: 40px;
+}
+.DriverList{
+    font-family: Alef;
+    list-style-type: numbers;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    float:left;
+    font-size: 30px;
+}
+.TeamList{
+    font-family: Alef;
+    list-style-type: numbers;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    float:right;
+    font-size: 30px;
+
+}
+.TeamList li:hover{
+
+    box-shadow: 0 4px 10px #003E19;
+    background-color: #7BC5AE;
+    font-size: 40px;
+}
+ a {
+     text-decoration: none;
+     color: #5e2028;
+     padding: 10px;
+ }
+ h3{
+     font-family: "Agency FB";
+     margin-left: 10px;
+     font-size: 40px;
+ }
+ h4{
+     font-family: "Agency FB";
+     margin-left: 10px;
+     font-size: 40px;
+ }
+h2{
+    font-family: "Agency FB";
+    text-weight: bold;
+    font-size: 40px;
+}
+ .Text{
+     margin-right: 50px;
+     font-size: 30px;
+     margin-left: 10px;
+ }
+ .Picture{
+float: right;
+     margin-right: 10px;
+ }
+.Body2{
+    margin:30px;
+    font-size: 30px;
+}
+.Start{
+    position: absolute;
+    right: 20px;
+}

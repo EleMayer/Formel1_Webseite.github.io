@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 50px;
+    overflow: hidden;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+    background-color: #151111FF;
+}
+video {
+    position: relative;
+    object-fit: cover;
+    height: auto;
+    width: 80%;
+    max-width: 800px;
+    z-index: 1;
+}
+.content {
+    font-family: "Agency FB";
+    position: relative;
+    z-index: 1;
+    color: #1f938d;
+    text-align: center;
+    padding: 20px;
+}
+.listee:hover {
+    font-size: 55px;
+    color: slategray;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.listee{
+    font-size: 50px;
+    color:#7A2531FF;
+    text-decoration: none;
+    list-style-type: none;
+    display: block;
+}
