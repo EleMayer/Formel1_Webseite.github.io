@@ -1,0 +1,44 @@
+.TeamList{
+    font-family: "Forte";
+    list-style-type: numbers;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    float:left;
+    background-color: #112C81;
+}
+a {
+    text-decoration: none;
+    color: #0C5AB9;
+    padding: 10px;
+}
+a:hover {
+    font-size: 20px;
+    margin: -10px;
+    color: #41A1E7;
+}
+.active{
+    margin: -1px;
+    color: #97e0f6;
+    background-color: #42afd1;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-size: 10px;
+}
+.Bio{
+    text-align: justify;
+    margin-left: 25%;
+    padding-left: 20px;
+    margin-right: 10%;
+}
+.Steckbrief{
+    margin-left: 30%;
+    list-style: square;
+   }
+body{
+    background-color: lightgray;
+    font-size: 20px;
+}
