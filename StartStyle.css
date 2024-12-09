@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100%;
-    font-size: 50px;
+    font-size: 40px;
     overflow: hidden;
     display: flex;
 
@@ -28,14 +28,14 @@ video {
     padding: 20px;
 }
 .listee:hover {
-    font-size: 55px;
+    font-size: 45px;
     color: slategray;
     text-decoration: none;
     list-style-type: none;
 
 }
 .listee{
-    font-size: 50px;
+    font-size: 40px;
     color:#7A2531FF;
     text-decoration: none;
     list-style-type: none;
