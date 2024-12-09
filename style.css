@@ -14,7 +14,7 @@ h1{
 .navbar ul{
     list-style-type: none;
     background-color: #002C2F;
-    position: fixed;
+   
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -25,7 +25,8 @@ h1{
     color: #B2A59F;
     text-decoration: none;
     padding: 30px;
-     position: fixed;
+   
+    
     display: block;
     text-align: center;
 }
