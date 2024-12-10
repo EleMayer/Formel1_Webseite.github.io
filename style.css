@@ -115,8 +115,9 @@ h2{
     font-family: "Agency FB";
     text-weight: bold;}
  .Text{
-     margin-right: 50px;
-     margin-left: 10px;
+    /* margin-right: 50px;
+     margin-left: 10px;*/
+     font-color:black;
  }
  .Picture{
 float: right;
