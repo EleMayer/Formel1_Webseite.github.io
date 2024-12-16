@@ -6,6 +6,7 @@ body {
     overflow: hidden;
     display: flex;
 
+    font-family: "Agency FB";
     justify-content: center;
     align-items: center;
     object-fit: cover;
