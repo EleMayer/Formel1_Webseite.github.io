@@ -39,6 +39,7 @@ a:hover {
     list-style: square;
    }
 body{
+    font-family: "Agency FB";
     background-color: lightgray;
     font-size: 20px;
 }
