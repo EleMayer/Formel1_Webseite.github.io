@@ -1,7 +1,6 @@
 body{
     margin: 0px;
     font-size: 0px;
-    font-color:black;
     font-family: "Agency FB";
     background-color: lightgray;
 }
@@ -17,18 +16,15 @@ h1{
 .navbar ul{
     list-style-type: none;
     background-color: #002C2F;
-   
     padding: 0px;
     margin: 0px;
     overflow: hidden;
-
 
 }
 .navbar a{
     color: #B2A59F;
     text-decoration: none;
     padding: 30px;
-   
     
     display: block;
     text-align: center;
@@ -95,6 +91,7 @@ h1{
     margin: 0px;
     display: block;
     float:right;
+
 }
 .TeamList li:hover{
 
@@ -108,25 +105,36 @@ h1{
  }
  h3{
      font-family: "Agency FB";
-     margin-left: 10px; }
+     margin-left: 10px;
+
+ }
  h4{
      font-family: "Agency FB";
      margin-left: 10px;
  }
 h2{
     font-family: "Agency FB";
-    text-weight: bold;}
+    text-weight: bold;
+<<<<<<< HEAD
+
+}
  .Text{
-    /* margin-right: 50px;
-     margin-left: 10px;*/
-     font-color:black;
+     margin-right: 50px;
+
+   
+}
+ .Text{
+     margin-right: 50px;
+    
+     margin-left: 10px;
  }
  .Picture{
-float: right;
+     float: right;
      margin-right: 10px;
  }
 .Body2{
     margin:30px;
+    font-size: 20px;
 }
 .Start{
     position: absolute;
