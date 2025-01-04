@@ -1,3 +1,72 @@
+
+.TeamList{
+    font-family: "Forte";
+    list-style-type: numbers;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    float:left;
+    background-color: #002C2F;
+}
+a {
+    text-decoration: none;
+    color: #B2A59F;
+    padding: 10px;
+}
+a:hover {
+    font-size: 20px;
+    margin: -10px;
+    color: #B2A59F;
+}
+.active{
+    margin: -1px;
+    color: #B2A59F;
+    background-color: #023459;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-size: 10px;
+}
+.Bio{
+    text-align: justify;
+    margin-left: 25%;
+    padding-left: 20px;
+    margin-right: 10%;
+}
+.Steckbrief{
+    margin-left: 30%;
+    list-style: square;
+   }
+body{
+    background-color: lightgray;
+    font-size: 20px;
+    font-family: "Agency FB";
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #002C2F;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+}
+.navbar a{
+    color: #B2A59F;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: #023459;
+}
+.navbar li{
+    float: left;
+}
+
 .TeamList{
     font-family: "Forte";
     list-style-type: numbers;
@@ -39,7 +108,6 @@ a:hover {
     list-style: square;
    }
 body{
-    font-family: "Agency FB";
     background-color: lightgray;
     font-size: 20px;
 }
